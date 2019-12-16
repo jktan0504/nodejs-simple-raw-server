@@ -37,6 +37,7 @@ const requestHandler = (req, res) => {
   res.end();
 };
 
+// Below are available syntax for module exports
 // module.exports = requestHandler;
 
 // module.exports = {
